@@ -5,7 +5,6 @@ public class User {
     private String userName;
     private String passWord;
 
-
     public Integer getId() {
         return id;
     }
